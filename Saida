@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Saida Ali Profile</title>
+
+  <style>
+    body {
+      font-family: Arial;
+      background: #e6f2ff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .card {
+      background: white;
+      padding: 25px;
+      border-radius: 10px;
+      width: 300px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+      text-align: center;
+    }
+
+    h2 {
+      color: #0a2f44;
+    }
+
+    p {
+      margin: 10px 0;
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card">
+  <h2>User Profile</h2>
+
+  <p><strong>First Name:</strong> Saida</p>
+  <p><strong>Last Name:</strong> Ali</p>
+  <p><strong>Email:</strong> alisaida489@gmail.com</p>
+  <p><strong>Password:</strong> 12345</p>
+</div>
+
+</body>
+</html>
