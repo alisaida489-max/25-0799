@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Saida Ali Form</title>
+</head>
+<body>
+
+<h2>Register</h2>
+
+<form method="POST" action="">
+
+  First Name:<br>
+  <input type="text" name="firstname" value="Saida"><br><br>
+
+  Last Name:<br>
+  <input type="text" name="lastname" value="Ali"><br><br>
+
+  Email:<br>
+  <input type="email" name="email" value="alisaida22@gmail.com"><br><br>
+
+  Password:<br>
+  <input type="password" name="password" value="12345"><br><br>
+
+  <input type="submit" value="Submit">
+
+</form>
+
+</body>
+</html>
